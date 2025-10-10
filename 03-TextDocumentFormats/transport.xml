@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportMeans>
+    <transport  comfort="High" cost="High">
+        <type>Car</type>
+        <travelTime>30</travelTime>
+    </transport>
+
+    <transport  comfort="Low" cost="Medium">
+        <type>Bus</type>
+        <travelTime>60</travelTime>
+    </transport>
+    
+    <transport  comfort="Low" cost="Low">
+        <type>Bike</type>
+        <travelTime>90</travelTime>
+    </transport>
+</transportMeans>
